@@ -1,3 +1,3 @@
 # Project-FY
-This Is My First 🥇 Project. 
-Author-Satyam Pandey
+This Is My First Git Repository. 
+Author - Satyam Pandey
